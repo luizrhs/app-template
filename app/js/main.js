@@ -1,6 +1,4 @@
-var a = 10;
-a = 20;
+(function() {
+	"use strict";
 
-var arg = "arg";
-var go = "asd";
-var k = 10;
+})();
