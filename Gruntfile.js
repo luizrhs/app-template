@@ -20,7 +20,7 @@ module.exports = function(grunt) {
 		// JSHINT
 		jshint: {
 			files: ['app/js/*.js', 'app/js/**/*.js', 'Gruntfile.js',
-			'test/*.js', 'test/**/*.js']
+			'test/*Spec.js', 'test/**/*Spec.js']
 		},
 
 		watch: {
