@@ -13,7 +13,6 @@ files = [
   'app/components/angular/angular.js',
   'app/js*.js',
   'app/js/**/*.js',
-  'app/js/Ctrl/controllers.js',
   'test/**/*Spec.js'
 ];
 
