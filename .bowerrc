@@ -1,4 +1,6 @@
 {
+
 	directory: "app/components",
 	json: "component.json"
+
 }
